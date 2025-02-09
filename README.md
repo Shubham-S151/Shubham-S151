@@ -10,7 +10,7 @@
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-data-science?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmn93GGCoRuuXMMyiBlc%2Bhg%3D%3D)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/shubham-sharma-portfolio/home)  
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([your-resume-link-here](https://drive.google.com/file/d/1OtVGwOQTVOOuYHjCF7iahfa1bvj1_efh/view))  
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]((https://drive.google.com/file/d/1OtVGwOQTVOOuYHjCF7iahfa1bvj1_efh/view))  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsharma15104@gmail.com)
 
 ---
