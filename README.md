@@ -35,9 +35,6 @@
   - 🛠️ Skills: Python, Data Analysis, EDA, Predictive Modeling  
 
 #### **2️⃣ Data Engineering & SQL**
-- **[DataEngineering Pipelines](https://github.com/Shubham-S151/DataEngineering-Pipelines)** *(Private Repository)*  
-  Scalable ETL pipelines using SQL and modern data engineering tools.  
-  - 🛠️ Skills: SQL, Airflow, Kafka, Spark  
 - **[MySQL Database Projects](https://github.com/Shubham-S151/MySQL-project)**  
   Various MySQL projects showcasing database design, queries, and optimizations.  
   - 🛠️ Skills: MySQL, SQL  
@@ -53,7 +50,7 @@
 #### **4️⃣ Deployment & AI Apps**
 - **[Hotel INN Cancellation Prediction](https://github.com/Shubham-S151/Hotel-INN-Cancellation-Deploy)**  
   Machine learning model deployment for hotel booking cancellations.  
-  - 🛠️ Skills: Python, Flask, Deployment, Model Serving  
+  - 🛠️ Skills: Python, Deployment, Model Serving  
 - **[Country Segmentation for NGOs](https://github.com/Shubham-S151/Country_segmentation_NGO_Deployment)**  
   Segmentation model to classify countries based on socio-economic factors.  
   - 🛠️ Skills: Clustering, Python, Machine Learning  
