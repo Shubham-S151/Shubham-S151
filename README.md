@@ -5,7 +5,7 @@ Data Analyst at Maruti Suzuki India Ltd.\
 Turning data into insights through analytics, machine learning, and storytelling.\
 Passionate about solving real-world problems using data-driven solutions.
 
-I work with **Python, SQL, and BI tools** to clean data, uncover patterns, and build predictive models.
+I work with **Python, SQL, ML, and BI tools** to clean data, uncover patterns, and build predictive models.
 
 ---
 
